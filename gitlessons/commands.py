@@ -26,4 +26,15 @@ git remote add <название подключения> <ссылка на ре
    git push <origin> <название ветки (main)>
    
    git push origin main
-   ---
+   -----------------------------------------------------------
+   1. git init 
+   2. git branch -M main (переименовываем шлавную метку с master на main)
+   3. git add . 
+   4. git commit -m 'comment' (все добавлено в локальный репо)
+   5. git remote add origin <url>
+   6. git push origin main
+   //////////////////////////////////////////////////
+   
+   git add .
+   git commit -m 'comment'
+   git push origin main

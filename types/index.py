@@ -46,17 +46,18 @@
 """
 в пайтоне для вывода данных в терминал используется print()
 """
-print('Hello world! My name is John Snow')
+#print('Hello world! My name is John Snow')
 
 # Стандартный ввод данных
 '''
 ДЛЯ ввода используется функция  input()
 '''
-a = input ('Введите число: ')
-print (a)
+# a = input ('Введите число: ')
+# print (a)
 # type выводит тип данных
-print (type(a))
+# print (type(a))
 
-b = int(input ('Введите число номер 2:'))
-print(b)
-print(type(b))
+# b = int(input ('Введите число номер 2:'))
+# print(b)
+# print(type(b))
+
